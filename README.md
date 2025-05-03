@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @dKumin8 (or simply dKumin)
+- 👋 Hi, I’m Boopsik
 - 👀 I’m interested in game development and drawing
-- 🌱 I’m currently learning Godot Engine and trying to make my own game
+- 🌱 I’m currently learning C, Win32  & Vulkan to create my own game
